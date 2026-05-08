@@ -1,0 +1,2 @@
+# Fire-Detection-Using-a-Hybrid-Deep-Learning-and-Machine-Learning-Approach
+Wildfire detection was improved using hybrid deep learning and machine learning models. DenseNet121 + SVM achieved the highest accuracy of 97.98%, followed by InceptionV3 + SVM with 97.87%. The proposed framework provides accurate, reliable, and scalable wildfire detection for real-time monitoring and early warning systems.
