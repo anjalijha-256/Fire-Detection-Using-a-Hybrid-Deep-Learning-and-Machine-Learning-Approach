@@ -1,17 +1,11 @@
-# Fire-Detection-Using-a-Hybrid-Deep-Learning-and-Machine-Learning-Approach
-Here’s a clean and professional README structure you can directly put in your [GitHub repository](https://github.com?utm_source=chatgpt.com) to make your project look strong and research-oriented:
 
-```md id="f4j8q2"
-# 🔥 Hybrid Deep Learning and Machine Learning Framework for Forest Fire Detection
+ **Hybrid Deep Learning and Machine Learning Framework for Forest Fire Detection**
 
-## 📌 Overview
 This project presents a hybrid artificial intelligence framework for intelligent forest fire detection using deep learning-based feature extraction and traditional machine learning classifiers. The system combines multiple pretrained CNN architectures with machine learning algorithms to accurately classify wildfire and non-wildfire images.
 
-The proposed framework achieved high wildfire detection accuracy, with DenseNet121 + SVM achieving the best performance of 97.98%.
+**The proposed framework achieved high wildfire detection accuracy, with DenseNet121 + SVM achieving the best performance of 97.98%.**
 
----
-
-## 🚀 Features
+ Features
 - Hybrid CNN + Machine Learning framework
 - Real-time wildfire detection capability
 - Comparative analysis of 32 hybrid models
@@ -21,8 +15,7 @@ The proposed framework achieved high wildfire detection accuracy, with DenseNet1
 - Lightweight and scalable wildfire monitoring approach
 
 ---
-
-## 🧠 Deep Learning Models Used
+  **Deep Learning Models Used**
 - DenseNet121
 - InceptionV3
 - Xception
@@ -33,8 +26,7 @@ The proposed framework achieved high wildfire detection accuracy, with DenseNet1
 - VGG19
 
 ---
-
-## 🤖 Machine Learning Classifiers
+** Machine Learning Classifiers**
 - Support Vector Machine (SVM)
 - Random Forest
 - Decision Tree
@@ -42,7 +34,7 @@ The proposed framework achieved high wildfire detection accuracy, with DenseNet1
 
 ---
 
-## 📊 Best Performing Models
+**Best Performing Models**
 
 | Model Combination | Accuracy |
 |-------------------|-----------|
@@ -53,12 +45,11 @@ The proposed framework achieved high wildfire detection accuracy, with DenseNet1
 
 ---
 
-## 📂 Dataset
-The dataset contains wildfire and non-wildfire images used for classification and performance evaluation.
+ **Dataset**
+The dataset contains 11034 wildfire and non-wildfire images used for classification and performance evaluation.
+Data set link - https://www.kaggle.com/datasets/cristiancristancho/forest-fire-image-dataset
 
----
-
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - TensorFlow / Keras
 - Scikit-learn
@@ -67,10 +58,9 @@ The dataset contains wildfire and non-wildfire images used for classification an
 - Matplotlib
 - Seaborn
 
----
 
-## 📈 Results
-The proposed hybrid framework demonstrated excellent wildfire classification performance. SVM-based hybrid models consistently achieved superior accuracy and reliability compared to other classifiers.
+##  Results
+The proposed hybrid framework demonstrated excellent wildfire classification performance. **SVM-based hybrid models** consistently achieved superior accuracy and reliability compared to other classifiers.
 
 Key observations:
 - DenseNet121 and InceptionV3 extracted highly discriminative wildfire features.
@@ -78,9 +68,8 @@ Key observations:
 - Random Forest provided stable and robust results.
 - Naïve Bayes showed inconsistent performance with some feature extractors.
 
----
 
-## 🖼️ Visualizations Included
+## Visualizations Included
 - Confusion Matrices
 - Accuracy Heatmaps
 - Precision, Recall, and F1-Score Comparisons
@@ -89,7 +78,7 @@ Key observations:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 - Integration with IoT sensors and satellite imagery
 - Real-time wildfire monitoring system
 - Explainable AI using SHAP and LIME
@@ -98,7 +87,7 @@ Key observations:
 
 ---
 
-## 📜 Conclusion
+##  Conclusion
 The project demonstrates that hybrid CNN–ML approaches significantly improve wildfire detection performance. DenseNet121 + SVM emerged as the most effective model, achieving highly accurate and reliable wildfire classification suitable for real-world early warning systems.
 
 ---
@@ -108,5 +97,5 @@ Anjali Jha
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star! 
+##  If you found this project useful, consider giving it a star! ⭐
 ```
